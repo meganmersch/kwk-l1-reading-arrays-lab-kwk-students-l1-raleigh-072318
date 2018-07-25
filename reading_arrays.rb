@@ -22,11 +22,13 @@ def last_student_by_index
   # Write a solution that returns the first student in the array student_names
   puts "#{student_names [5]}"
 end
+last_student_by_index(student_names)
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
+  puts student_names.first 
 end
-
+first_student_by_method
 def last_student_by_method
   # Write a solution that returns the first student using the built in .last method
 end
