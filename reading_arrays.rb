@@ -1,9 +1,9 @@
 student_names = []
-  "Adele",
-  "Beyoncé",
-  "Cardi B",
-  "Lady Gaga",
-  "Nicki Minaj",
+  "Adele"
+  "Beyoncé"
+  "Cardi B"
+  "Lady Gaga"
+  "Nicki Minaj"
   "Rihanna"
 
 
