@@ -18,7 +18,7 @@ def fourth_student_by_index(student_names)
   puts "#{student_names [4]}"
 end
 fourth_student_by_index(student_names)
-def last_student_by_index
+def last_student_by_index(student_names)
   # Write a solution that returns the first student in the array student_names
   puts "#{student_names [5]}"
 end
