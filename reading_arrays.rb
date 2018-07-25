@@ -30,9 +30,11 @@ def first_student_by_method(student_names)
 end 
 first_student_by_method(student_names)
 
-def last_student_by_method
+def last_student_by_method(student_names)
   # Write a solution that returns the first student using the built in .last method
+  puts "#{student_names.last}"
 end
+last_student_by_method(student_names)
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
